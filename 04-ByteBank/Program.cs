@@ -6,7 +6,13 @@ namespace _04_ByteBank
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-        }
+            ContaCorrente contaDaAna = new ContaCorrente();
+            ContaCorrente contaDoPedro = new ContaCorrente();
+            CadastrarCorrentista cadastrar = new CadastrarCorrentista();
+
+            cadastrar.Cadastro();
+
+            Console.ReadKey();
+        }              
     }
 }
