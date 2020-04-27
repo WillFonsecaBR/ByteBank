@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DESENVOLVIMENTO\\C#\\ARQUIVOS QUE JA FORAM ENVIADOS\\ByteBank\\04-ByteBank\\04-ByteBank.csproj",
-      "projectName": "04-ByteBank",
-      "projectPath": "E:\\DESENVOLVIMENTO\\C#\\ARQUIVOS QUE JA FORAM ENVIADOS\\ByteBank\\04-ByteBank\\04-ByteBank.csproj",
+      "projectUniqueName": "E:\\DESENVOLVIMENTO\\C#\\ARQUIVOS QUE JA FORAM ENVIADOS\\ByteBank\\05 - ByteBank\\05 - ByteBank.csproj",
+      "projectName": "05 - ByteBank",
+      "projectPath": "E:\\DESENVOLVIMENTO\\C#\\ARQUIVOS QUE JA FORAM ENVIADOS\\ByteBank\\05 - ByteBank\\05 - ByteBank.csproj",
       "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-      "outputPath": "E:\\DESENVOLVIMENTO\\C#\\ARQUIVOS QUE JA FORAM ENVIADOS\\ByteBank\\04-ByteBank\\obj\\",
+      "outputPath": "E:\\DESENVOLVIMENTO\\C#\\ARQUIVOS QUE JA FORAM ENVIADOS\\ByteBank\\05 - ByteBank\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
